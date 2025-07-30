@@ -48,17 +48,17 @@ Insight: Users accessing content via Smart TVs and Tablets have significantly hi
 
 2. 📉 Platform Completion Rate Disparities
 Insight: Platforms like Netflix have noticeably higher completion rates, whereas others like mobile web or browser-based apps show lower values.
-✅ Recommendation: Audit low-performing platforms for UX issues (buffering, layout, navigation). Consider user interviews or session recordings to understand drop-off points.
+- ✅ Recommendation: Audit low-performing platforms for UX issues (buffering, layout, navigation). Consider user interviews or session recordings to understand drop-off points.
 
 3. 😱 High Engagement with Long Horror Content
 Insight: Users show high watch time on content where genre = Horror and watch_category = Long.
-✅ Recommendation: Invest in and promote long-form horror content. Offer content bundles (e.g., horror marathons, limited-time horror series) to boost retention.
+- ✅ Recommendation: Invest in and promote long-form horror content. Offer content bundles (e.g., horror marathons, limited-time horror series) to boost retention.
 
 4. 🕐 Short Content Drop-Off
 Insight: Some short content (<5 minutes) still has low completion rates, possibly due to poor intros, irrelevant recommendations, or lack of a hook.
-✅ Recommendation: Introduce “Auto-next” functionality or group shorts into a playlist to maintain user flow.
+- ✅ Recommendation: Introduce “Auto-next” functionality or group shorts into a playlist to maintain user flow.
 
 5. 💻 Desktop/Web Viewer Behavior
 Insight: Desktop/web users have moderate watch time and completion rates — possibly due to distractions or multitasking.
-✅ Recommendation: Use visual cues like a “Continue Watching” bar and resume-from-last-time modals. Run user retention experiments (e.g., sticky headers, compact layouts) on web platforms.
+- ✅ Recommendation: Use visual cues like a “Continue Watching” bar and resume-from-last-time modals. Run user retention experiments (e.g., sticky headers, compact layouts) on web platforms.
 
