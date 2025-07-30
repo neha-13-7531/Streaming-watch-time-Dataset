@@ -15,13 +15,13 @@ This project analyzes a streaming watchtime dataset to uncover trends in user be
 - **completion_rate** : Percentage of content watched (0 to 100%)
 - **watch_category**:	Category of viewing time (e.g., Short, Long sessions)
 
-🧰 Tools and Libraries Used
+## 🧰 Tools and Libraries Used
 - Pandas – Data manipulation and analysis
 - NumPy – Mathematical operations
 - Matplotlib & Seaborn – Data visualization
 - Jupyter Notebook – Interactive analysis environment
 
-🔍 Steps Perform
+## 🔍 Steps Perform
 1. 📥 Data Import
 - Loaded dataset using pandas in Jupyter Notebook.
 
@@ -41,8 +41,8 @@ This project analyzes a streaming watchtime dataset to uncover trends in user be
 - Boxplot : To find outlier in watch_time_minutes and completion rate columns.(there is no outlier present in both columns)
 - Countplot : Frequency of categorical values (e.g., platform, device)
 
-  💡 Recommendations
-  1. 📱 Smart TV & Tablet Optimization
+## 💡 Recommendations
+1. 📱 Smart TV & Tablet Optimization
 Insight: Users accessing content via Smart TVs and Tablets have significantly higher average watch times compared to Mobile or Web.
 ✅ Recommendation: Focus feature development (e.g., autoplay, resume watching, personalized banners) on Smart TV and Tablet platforms to retain long-viewing users.
 
