@@ -16,10 +16,10 @@ This project analyzes a streaming watchtime dataset to uncover trends in user be
 - **watch_category**:	Category of viewing time (e.g., Short, Long sessions)
 
 🧰 Tools and Libraries Used
-Pandas – Data manipulation and analysis
-NumPy – Mathematical operations
-Matplotlib & Seaborn – Data visualization
-Jupyter Notebook – Interactive analysis environment
+- Pandas – Data manipulation and analysis
+- NumPy – Mathematical operations
+- Matplotlib & Seaborn – Data visualization
+- Jupyter Notebook – Interactive analysis environment
 
 🔍 Steps Perform
 1. 📥 Data Import
