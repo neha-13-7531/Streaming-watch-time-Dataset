@@ -62,7 +62,7 @@ This project analyzes a streaming watchtime dataset to uncover trends in user be
 - Insight: Desktop/web users have moderate watch time and completion rates — possibly due to distractions or multitasking.
 - ✅ Recommendation: Use visual cues like a “Continue Watching” bar and resume-from-last-time modals. Run user retention experiments (e.g., sticky headers, compact layouts) on web platforms.
 
-**6.🌍 Top Platform Sustainability Strategy
+**6.🌍 Top Platform Sustainability Strategy**
 - Insight: Platforms like Zee5 and Netflix dominate viewership in multiple countries due to regional content, user-friendly interfaces, and strong brand presence.
 - ✅ Recommendation:
 - Continue investing in localized content and language-specific recommendations.
