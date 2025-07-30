@@ -23,7 +23,7 @@ This project analyzes a streaming watchtime dataset to uncover trends in user be
 
 🔍 Steps Perform
 1. 📥 Data Import
-Loaded dataset using pandas in Jupyter Notebook.
+- Loaded dataset using pandas in Jupyter Notebook.
 
 2. 🧹 Data Cleaning
 - Converted date columns to datetime format.
