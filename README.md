@@ -36,10 +36,11 @@ This project analyzes a streaming watchtime dataset to uncover trends in user be
 
 4. 📈 Data Visualization
 - A histogram was used to understand the distribution of the completion_rate feature.
-- Histogram : used for data distribution of watch_time_minutes.
-- Heatmap : Correlation between  watch_time_minutes and completion rate.
-- Boxplot : To find outlier in watch_time_minutes and completion rate columns.(there is no outlier present in both columns)
-- Countplot : Frequency of categorical values (e.g., platform, device)
+- **Histogram** : used for data distribution of watch_time_minutes.
+- **Heatmap** : Correlation between  watch_time_minutes and completion rate.
+- **Boxplot** : To find outlier in watch_time_minutes and completion rate columns.(there is no outlier present in both columns)
+- **Countplot** : Frequency of categorical values (e.g., platform, device)
+- **pie chart** : To get watch content to device(SmartTV 17.4%,Tablet 15.9%),also use for platform,genre give total percentge.
 
 ## 💡 Recommendations
 **1. 📱 Smart TV & Tablet Optimization**
